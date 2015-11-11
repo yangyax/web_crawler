@@ -1,8 +1,8 @@
 <doc>
- <field name="question">    What is the industry standard height for a showe
-rhead?
- </field>
- <field name="answer">
+  <field name="question">
+    What is the industry standard height for a shower head?
+  </field>
+  <field name="answer">
     Typically the connection for the shower arm is stubbed out at about 78” 
 above the floor with the shower head at about 74”. NKBA however, recommends the 
 showerhead be placed so the tallest user can easily wash their hair while standi
@@ -10,6 +10,6 @@ ng under the shower spray. Therefore, the height of 74” may be too low for man
 people. The best solution is a shower head mounted on a sliding vertical bar. If
 you do raise the showerhead we suggest the waterproof wall material within the 
 shower extend at least 3 inches above the final or highest possible position for
-the showerhead.</field>
-    </doc>
-<doc>
+the showerhead.
+  </field>
+</doc>
